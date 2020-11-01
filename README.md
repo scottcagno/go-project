@@ -1,6 +1,6 @@
-# Unicorn PoS
+# Go Project Starter
 
-Don't get stuck with a one track pony
+Simple "empty" project for use with medium to large golang projects.
 
 ### `/cmd`
 
